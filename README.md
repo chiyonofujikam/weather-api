@@ -55,6 +55,12 @@ UPSTASH_URL=your_upstash_url
 UPSTASH_REDIS_TOKEN=your_upstash_token
 ```
 
+if 'touch' cli isn't working:
+
+```bash
+npm install touch-cli -g
+```
+
 ## Usage
 
 ```bash
